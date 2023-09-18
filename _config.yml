@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yicheng Cai\n(Ethan N. Tsai)"
+  name             : "Yicheng Cai<br>(Ethan N. Tsai)"
   avatar           : "avatar.png" # "profile.png"
   bio              : "Graduate Student of Cybersecurity at the Sichuan University"
   location         : "Chengdu, China"

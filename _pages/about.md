@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Yicheng! - Yicheng Cai"
+title: "Hello, I'm Yicheng!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Yicheng!
-======
 I am a graduate student in School of Cyber Science and Engineering at [Sichuan University](https://en.scu.edu.cn/), advised by Prof. [Haizhou Wang](http://www.cyber-wang.cn/) and part of the [Cyber Science Research Institute](https://csri.scu.edu.cn/index.htm). 
 
 I'm interested in xxx.
