@@ -17,7 +17,7 @@ I'm interested in the areas of cyber security, societal computing, AI security, 
 Publications
 ------
 - [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://www.sciencedirect.com/science/article/pii/S0957417423000398)<br>
-  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*, Huali Ye, Yanwen Jin, Wei Gao. *Expert Systems With Applications (ESWA)*, Volume 217, 2023. </span><br>
+  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*, Huali Ye, Yanwen Jin, Wei Gao. *Expert Systems with Applications (ESWA)*, Volume 217, 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://www.sciencedirect.com/science/article/pii/S0957417423000398) | [code](https://github.com/ethan-nicholas-tsai/DepressionDetection)
 
 - [Spam Movie Review Detection with Multi-View Explicit and Implicit Relations Semantics Fusion](#)<br>
