@@ -24,6 +24,10 @@ Publications
   <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*. *In submission*, 2023. </span><br>
   <span style="font-size:4mm;">[paper](#) | [code](https://gitee.com/cendeavor/spam-movie-review-detection)
 
+- [Social Bot Detection with Multimodal Feature Representation Learning and Deep Fusion](#)<br>
+  <span style="font-size:4mm;">Fengyuan Liu, **Yicheng Cai**, Haizhou Wang\*. *In submission*, 2023. </span><br>
+  <span style="font-size:4mm;">[paper](#)
+
 Patents
 ------
 - [A Cantonese Rumor Detection Method Based on Deep Semantic-Aware Graph Convolutional Network](#)<br>
