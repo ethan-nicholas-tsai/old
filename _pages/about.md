@@ -47,7 +47,7 @@ Educations
 Internships
 ------
 - *Jun. 2020 - Dec. 2020*, Chengdu Guoxin'an Information Industrial Base, Sichuan, China
-- *Jul. 2019 - Aug. 2019*, [National University of Singapore](https://nus.edu.sg/), Singapore
+- *Jul. 2019 - Aug. 2019*, [National University of Singapore](https://nus.edu.sg/), Singapore, Advised by [Ee-Chien Chang](https://scholar.google.com/citations?user=qZavFBcAAAAJ&hl=en)
 
 <!-- Getting started
 ====== -->
