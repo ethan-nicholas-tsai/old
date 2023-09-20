@@ -19,11 +19,11 @@ Previously, I graduated summa cum laude (**Rank 1/130**) from Sichuan University
 Publications
 ------
 - [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://www.sciencedirect.com/science/article/pii/S0957417423000398)<br>
-  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*, Huali Ye, Yanwen Jin, Wei Gao. *Expert Systems with Applications (ESWA)*, Volume 217, 2023. </span><br>
+  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*, Huali Ye, Yanwen Jin, Wei Gao. *Expert Systems with Applications (ESWA, **Impact Factor: 8.5**)*, 217(119538), 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://www.sciencedirect.com/science/article/pii/S0957417423000398) | [code](https://github.com/ethan-nicholas-tsai/DepressionDetection)
 
 - [Spam Movie Review Detection with Multi-View Explicit and Implicit Relations Semantics Fusion](#)<br>
-  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*. *In Submission*, 2023. </span><br>
+  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*. *Under Review*, 2023. </span><br>
   <span style="font-size:4mm;">[paper](#) | [code](https://gitee.com/cendeavor/spam-movie-review-detection)
 
 - [Social Bot Detection with Multimodal Feature Representation Learning and Deep Fusion](#)<br>
