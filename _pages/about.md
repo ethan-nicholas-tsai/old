@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate student in School of Cyber Science and Engineering at [Sichuan University](https://en.scu.edu.cn/), advised by Prof. [Haizhou Wang](http://www.cyber-wang.cn/) and part of the [Cyber Science Research Institute](https://csri.scu.edu.cn/index.htm). 
 
-I'm interested in the areas of cyber security, societal computing, AI security, and AI for science. Recently, I've been focusing on problems in data representations, especially in settings with multiple input types or objectives. Moreover, I am particularly excited about how to use AI for scientific discovery about the mechanisms of society and human cognition.
+I'm interested in the areas of AI for cybersecurity, societal computing, AI security, and AI for science. Recently, I've been focusing on problems in data representations, especially in settings with multiple input types or objectives. Moreover, I am particularly excited about how to use AI for scientific discovery about the mechanisms of society and human cognition.
 
 Previously, I graduated summa cum laude (**Rank 1/130**) from Sichuan University in 2021 with a *Bachelor's Degree of Cybersecurity*. In 2019, I studied at [National University of Singapore](https://nus.edu.sg/) as a visiting student, advised by [Ee-Chien Chang](https://scholar.google.com/citations?user=qZavFBcAAAAJ&hl=en).
 
