@@ -10,31 +10,24 @@ redirect_from:
 
 I am a graduate student in School of Cyber Science and Engineering at [Sichuan University](https://en.scu.edu.cn/), advised by Prof. [Haizhou Wang](http://www.cyber-wang.cn/) and part of the [Cyber Science Research Institute](https://csri.scu.edu.cn/index.htm). 
 
-I'm interested in the areas of AI for cybersecurity, societal computing, AI security, and AI for science. Recently, I've been focusing on problems in data representations, especially in settings with multiple input types or objectives. Moreover, I am particularly excited about how to use AI for scientific discovery about the mechanisms of society and human cognition. Plus, I've proposed research on *Virtual Agents Personification on Social Networks* for my master's thesis.
+I'm interested in the areas of AI for cybersecurity, societal computing, AI security, and AI for science. Recently, I've been focusing on problems in data representations, especially in settings with multiple input types or objectives. Moreover, I am particularly excited about how to use AI for scientific discovery about the mechanisms of society and human cognition. Plus, I've conducted research on *Virtual Agents Personification on Social Networks* for my master's thesis.
 
-Previously, I graduated summa cum laude (**Rank 1/130**) from Sichuan University in 2021 with a *Bachelor's Degree of Cybersecurity*. In 2019, I studied at [National University of Singapore](https://nus.edu.sg/) as a visiting student, advised by [Ee-Chien Chang](https://scholar.google.com/citations?user=qZavFBcAAAAJ&hl=en).
+Previously, I graduated summa cum laude (**Rank 1/130**) from Sichuan University in 2021 with a *Bachelor's Degree of Cybersecurity*. In 2019, I studied at [National University of Singapore](https://nus.edu.sg/) as a visiting student, advised by Prof. [Ee-Chien Chang](https://scholar.google.com/citations?user=qZavFBcAAAAJ&hl=en).
 
-**I'm looking for a PhD offer in Fall 2024!**
+**I'm starting my PhD study in Fall 2024, advised by Prof. [Peng Liu](https://s2.ist.psu.edu/pliu/)!**
 
 Publications
 ------
+- [Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](#)<br>
+  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*, Hao Cao, Wenxian Wang, Lei Zhang, and
+Xingshu Chen. *Under Review*, 2024. </span><br>
+  <span style="font-size:4mm;">[paper](#) | [code](https://gitee.com/cendeavor/spam-movie-review-detection)
+
 - [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://www.sciencedirect.com/science/article/pii/S0957417423000398)<br>
   <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*, Huali Ye, Yanwen Jin, Wei Gao. *Expert Systems with Applications (ESWA, **Impact Factor: 8.5**)*, 217(119538), 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://www.sciencedirect.com/science/article/pii/S0957417423000398) | [code](https://github.com/ethan-nicholas-tsai/DepressionDetection)
 
-- [Spam Movie Review Detection with Multi-View Explicit and Implicit Relations Semantics Fusion](#)<br>
-  <span style="font-size:4mm;">**Yicheng Cai**, Haizhou Wang\*. *Under Review*, 2023. </span><br>
-  <span style="font-size:4mm;">[paper](#) | [code](https://gitee.com/cendeavor/spam-movie-review-detection)
-
-- [Social Bot Detection with Multimodal Feature Representation Learning and Deep Fusion](#)<br>
-  <span style="font-size:4mm;">Fengyuan Liu, **Yicheng Cai**, Haizhou Wang\*. *In Submission*, 2023. </span><br>
-  <span style="font-size:4mm;">[paper](#)
-
-Patents
-------
-- [A Cantonese Rumor Detection Method Based on Deep Semantic-Aware Graph Convolutional Network](#)<br>
-  <span style="font-size:4mm;">Haizhou Wang, Xinyu Chen, Liang Ke, Yixuan Fang, Sen Wang, **Yicheng Cai**, Wenxian Wang. C.N. Patent Number: ZL 2022 1 0371266.1, July 2022. </span><br>
-  <span style="font-size:4mm;">[patent](#)
+- More in [CV](https://ethan-nicholas-tsai.github.io/files/YichengCai_CV.pdf)
 
 Honors and Awards
 ------
@@ -47,13 +40,11 @@ Honors and Awards
 
 Educations
 ------
+- *Aug. 2024 - Today*, PhD, Pennsylvania State University, Pennsylvania, United States
+- *Jan. 2024 - Feb. 2024*, Visiting Student, Massachusetts Institute of Technology, Massachusetts, United States
 - *Sep. 2021 - Jun. 2024 (Expected)*, Master, Sichuan University, Sichuan, China
 - *Jul. 2019 - Aug. 2019*, Visiting Student, National University of Singapore, Singapore
 - *Sep. 2017 - Jun. 2021*, Undergraduate, Sichuan University, Sichuan, China
-
-Internships
-------
-- *Jun. 2020 - Dec. 2020*, Chengdu Guoxin'an Information Industrial Base, Sichuan, China
 
 <!-- Getting started
 ====== -->
